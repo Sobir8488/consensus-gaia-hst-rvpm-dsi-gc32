@@ -1,0 +1,6 @@
+Highlights
+- A strict Gaia-HST-RV/PM sample of 32 Galactic globular clusters is analysed.
+- The consensus DSI combines fixed, learned, classical latent and Bayesian latent diagnostics.
+- Multiple null-family tests are used to assess high-ranking systems conservatively.
+- NGC 5053 has the largest DSI value but is treated as a follow-up candidate because of limited RV/PM coverage.
+- Structural validation shows that the DSI is not a simple concentration or core-collapse proxy.

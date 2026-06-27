@@ -1,0 +1,6 @@
+standard_variable,source_column,mapping_note
+concentration_c,concentration_c,numeric
+log10_trc_yr,log10_trc_yr,numeric/log_standardized
+log10_trh_yr,log10_trh_yr,numeric/log_standardized
+age_gyr,not_found,numeric
+core_collapse_flag,core_collapse_flag,explicit_column

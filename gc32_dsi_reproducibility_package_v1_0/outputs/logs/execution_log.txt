@@ -1,0 +1,139 @@
+============================================================
+GC32 DSI versioned analysis-manuscript-ready PIPELINE STARTED
+Date/time: 31-May-2026 05:10:44
+Data dir : /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE
+Out dir  : /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis
+runMode  : publication | Nmc=5000 | Nnull=50000 | Nweight=20000
+============================================================
+
+Loaded:
+  clusters       : 32
+  HST rows       : 389
+  Gaia rows      : 3232
+  RV/PM rows     : 839
+  APOGEE chem GCs: 23
+
+Computing observed-data dynamic features and physical profile fits.
+
+Learning weights: PCA, entropy and stability optimization.
+
+Running covariance-aware profile Monte-Carlo.
+Starting parallel pool (parpool) using the 'Threads' profile ...
+Connected to parallel pool with 8 workers.
+
+Estimating classical and Bayesian latent dynamical complexity.
+
+Running empirical, physical-proxy, rotation-free and profile-shuffle null simulations.
+
+Fitting 3-state Gaussian mixture to primary DSI and latent score.
+
+Leave-one-component-out and robustness diagnostics.
+
+External validation and correlations.
+
+Writing publication tables.
+
+Generating figures.
+MAT workspace saved: /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis/mat/GC32_DSI_versioned_analysis_analysis_workspace.mat
+
+============================================================
+GC32 DSI versioned analysis-manuscript-ready PIPELINE COMPLETED
+Primary results: /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis/tables/GC32_versioned_PRIMARY_ranked_DSI_stability_BC.csv
+Summary: /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis/logs/GC32_DSI_versioned_analysis_analysis_scientific_summary.txt
+============================================================
+============================================================
+GC32 DSI versioned analysis-manuscript-ready PIPELINE STARTED
+Date/time: 31-May-2026 05:32:22
+Data dir : /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE
+Out dir  : /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis
+runMode  : publication | Nmc=5000 | Nnull=50000 | Nweight=20000
+============================================================
+
+Loaded:
+  clusters       : 32
+  HST rows       : 389
+  Gaia rows      : 3232
+  RV/PM rows     : 839
+  APOGEE chem GCs: 23
+
+Computing observed-data dynamic features and physical profile fits.
+
+Learning weights: PCA, entropy and stability optimization.
+
+Running covariance-aware profile Monte-Carlo.
+
+Estimating classical and Bayesian latent dynamical complexity.
+
+Running empirical, physical-proxy, rotation-free and profile-shuffle null simulations.
+
+Fitting 3-state Gaussian mixture to primary DSI and latent score.
+
+Leave-one-component-out and robustness diagnostics.
+
+External validation and correlations.
+
+Structural validation variables:
+  concentration_c source : not_found
+  log10_trc_yr source    : not_found
+  log10_trh_yr source    : not_found
+  core-collapse source   : not_found (not_available)
+
+Writing publication tables.
+
+Generating figures.
+[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive graphics client with your service request.] 
+{Operation terminated by user during <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('print', '/MATLAB/toolbox/matlab/graphics/export/print.m', 6)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/MATLAB/toolbox/matlab/graphics/export/print.m',6,0)">line 6</a>)
+
+
+In <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis>saveFig', '/MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis.m', 1701)" style="font-weight:bold">run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis>saveFig</a> (<a href="matlab: opentoline('/MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis.m',1701,0)">line 1701</a>)
+
+In <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis>scatterValidation', '/MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis.m', 1716)" style="font-weight:bold">run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis>scatterValidation</a> (<a href="matlab: opentoline('/MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis.m',1716,0)">line 1716</a>)
+
+In <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis', '/MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis.m', 713)" style="font-weight:bold">run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis</a> (<a href="matlab: opentoline('/MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis.m',713,0)">line 713</a>)
+} 
+run_GC32_DSI_analysis_pipeline_versioned_analysis_analysis_release
+============================================================
+GC32 DSI versioned analysis-manuscript-ready PIPELINE STARTED
+Date/time: 31-May-2026 06:07:48
+Data dir : /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE
+Out dir  : /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis
+runMode  : publication | Nmc=5000 | Nnull=50000 | Nweight=20000
+============================================================
+
+Loaded:
+  clusters       : 32
+  HST rows       : 389
+  Gaia rows      : 3232
+  RV/PM rows     : 839
+  APOGEE chem GCs: 23
+
+Computing observed-data dynamic features and physical profile fits.
+
+Learning weights: PCA, entropy and stability optimization.
+
+Running covariance-informed profile Monte-Carlo.
+
+Estimating classical and Bayesian latent dynamical complexity.
+
+Running empirical, physical-proxy, rotation-free and profile-shuffle null simulations.
+
+Fitting 3-state Gaussian mixture to primary DSI and latent score.
+
+Leave-one-component-out and robustness diagnostics.
+
+External validation and correlations.
+
+Structural validation variables:
+  concentration_c source : concentration_c
+  log10_trc_yr source    : log10_trc_yr
+  log10_trh_yr source    : log10_trh_yr
+  core-collapse source   : core_collapse_flag (explicit_column)
+
+Writing publication tables.
+MAT workspace saved: /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis/mat/GC32_DSI_versioned_analysis_analysis_workspace.mat
+
+============================================================
+GC32 DSI versioned analysis-manuscript-ready PIPELINE COMPLETED
+Primary results: /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis/tables/GC32_versioned_PRIMARY_ranked_DSI_stability_BC.csv
+Summary: /MATLAB Drive/DSI_GC32_CSV_PLUS_analysis_MATLAB/DSI_GC32_CSV_PACKAGE/DSI_GC32_CSV_PLUS_analysis_MATLAB_v4_2_release/DSI_GC32_CSV_PACKAGE/analysis_outputs_versioned_analysis_analysis/logs/GC32_DSI_versioned_analysis_analysis_scientific_summary.txt
+============================================================

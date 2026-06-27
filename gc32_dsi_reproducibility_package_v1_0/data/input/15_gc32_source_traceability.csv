@@ -1,0 +1,8 @@
+source_block,original_input,derived_gc32_csv,notes
+HST HUGS metadata,Pasted text(50).txt,07_gc32_hst_hugs_exposure_metadata.csv,Filter exposure/CMD/catalog metadata.
+HST PM dispersion,Pasted text (2)(3).txt,03_gc32_hst_pm_dispersion_profiles_masyr.csv,Total/radial/tangential PM dispersion by radial bin.
+Combined RV/PM velocity dispersion,Pasted text (3).txt,06_gc32_combined_rv_pm_velocity_dispersion_profiles_kms.csv,Velocity dispersion profiles in km/s by radial bin and data type.
+Gaia EDR3 profiles,clusters(1).zip/profiles,04_gc32_gaia_edr3_rotation_dispersion_profiles_masyr.csv,PM dispersion and rotation profile percentiles.
+Gaia EDR3 member summary,clusters(1).zip/catalogues,05_gc32_gaia_member_catalogue_summary.csv,Membership-count and astrometric summary.
+APOGEE VAC parameters,GC_parameters_VAC-v1_1.fits,08_gc32_apogee_gc_parameters_available23.csv,Cluster-level parameter rows available for 23 clusters.
+APOGEE VAC members,GC_members_VAC-v1_1.fits,10_gc32_apogee_star_members_available23.csv,Star-level RV and abundance rows for available clusters.

@@ -1,0 +1,7 @@
+component,variable,default_weight,expected_sign,use_in_matlab
+dispersion_gradient,hst_pm_sigma_gradient_loglog / gaia_pm_disp_gradient_loglog / vel_all_sigma_gradient_loglog,0.25,more negative = centrally concentrated/relaxed candidate,1
+anisotropy,hst_anisotropy_abs_median,0.2,larger absolute value = more anisotropic,1
+rotation_support,gaia_rot_support_max or gaia_rot_support_median,0.2,larger = stronger ordered rotation,1
+outer_inner_ratio,hst_pm_outer_inner_ratio / gaia_pm_disp_outer_inner_ratio / vel_all_outer_inner_ratio,0.15,large or flat outer ratio = tidally heated/under-relaxed candidate,1
+chemical_complexity,"FE_H_sigma, AL_FE_sigma, NA_FE_sigma, MG_FE_sigma",0.1,larger = chemically complex / possible accreted signal,1
+data_quality,data_quality_score_0_1,0.1,larger = more reliable classification,1

@@ -1,0 +1,16 @@
+{
+  "package_name": "gc32_dsi_reproducibility_package",
+  "version": "1.0.0",
+  "created_utc": "2026-06-27T08:15:52Z",
+  "description": "GitHub/Zenodo reproducibility package for the GC32 Gaia-HST-RV/PM dynamical-state-index analysis.",
+  "top_level_directories": [
+    "code",
+    "data",
+    "outputs",
+    "figures",
+    "manuscript",
+    "editorial",
+    "metadata",
+    "environment"
+  ]
+}

@@ -1,0 +1,2 @@
+metric,N_nonCC,N_CC,median_nonCC,median_CC,delta_median_CC_minus_nonCC,p_perm,cliffs_delta_CC_vs_nonCC,note
+DSI_stability_BC,30,2,-0.0391246420938321,-0.652066527942165,-0.612941885848333,0.249587520623969,-0.866666666666667,CC_vs_nonCC_permutation_test

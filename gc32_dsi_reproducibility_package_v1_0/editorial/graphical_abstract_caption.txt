@@ -1,0 +1,1 @@
+Consensus Gaia-HST-RV/PM dynamical-state framework for Galactic globular clusters. The workflow combines six kinematic/profile components, learned weights, latent diagnostics, covariance-informed Monte-Carlo uncertainty propagation and null-family stress tests to rank multi-component dynamical complexity.

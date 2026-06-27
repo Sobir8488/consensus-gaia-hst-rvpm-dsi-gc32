@@ -1,0 +1,33 @@
+cluster_id,core_dynamics_complete,missing_gc_parameters_apogee_vac,missing_apogee_chemistry,n_main_matrix_missing_cells,note
+NGC0104,1,0,0,20,Core dynamics + APOGEE available.
+NGC0288,1,0,0,20,Core dynamics + APOGEE available.
+NGC0362,1,0,0,20,Core dynamics + APOGEE available.
+NGC1261,1,1,1,105,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC1851,1,0,0,20,Core dynamics + APOGEE available.
+NGC2298,1,0,0,21,Core dynamics + APOGEE available.
+NGC2808,1,0,0,20,Core dynamics + APOGEE available.
+NGC3201,1,0,0,20,Core dynamics + APOGEE available.
+NGC4590,1,0,0,20,Core dynamics + APOGEE available.
+NGC4833,1,1,1,104,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC5024,1,0,0,18,Core dynamics + APOGEE available.
+NGC5053,1,0,0,25,Core dynamics + APOGEE available.
+NGC5272,1,0,0,20,Core dynamics + APOGEE available.
+NGC5466,1,0,0,23,Core dynamics + APOGEE available.
+NGC5897,1,1,1,104,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC5904,1,0,0,20,Core dynamics + APOGEE available.
+NGC5927,1,1,1,104,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC5986,1,1,1,104,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC6093,1,0,0,22,Core dynamics + APOGEE available.
+NGC6101,1,1,1,106,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC6121,1,0,0,20,Core dynamics + APOGEE available.
+NGC6144,1,0,0,42,Core dynamics + APOGEE available.
+NGC6171,1,0,0,20,Core dynamics + APOGEE available.
+NGC6205,1,0,0,20,Core dynamics + APOGEE available.
+NGC6218,1,0,0,20,Core dynamics + APOGEE available.
+NGC6254,1,0,0,20,Core dynamics + APOGEE available.
+NGC6304,1,0,0,21,Core dynamics + APOGEE available.
+NGC6341,1,0,0,20,Core dynamics + APOGEE available.
+NGC6352,1,1,1,105,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC6362,1,1,1,102,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC6366,1,1,1,105,"Core dynamics available; APOGEE/global VAC row not supplied, left as NaN."
+NGC6397,1,0,0,21,Core dynamics + APOGEE available.

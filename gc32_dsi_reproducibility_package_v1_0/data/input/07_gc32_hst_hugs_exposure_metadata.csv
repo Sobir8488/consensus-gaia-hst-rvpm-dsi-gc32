@@ -1,0 +1,33 @@
+cluster_id,cluster_name_hugs,ra_deg,dec_deg,F275W_exp_s,F336W_exp_s,F435W_exp_s,F438W_exp_s,F606W_exp_s,F814W_exp_s,catalog_methods,plot_products,has_bundle_tar_gz
+NGC0104,NGC 0104,6.023792,-72.081306,348s,225s,10s | 100s,,3s | 50s,3s | 50s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC0288,NGC 0288,13.1885,-26.582611,400s,350s,,41s,10s | 130s,10s | 150s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC0362,NGC 0362,15.809417,-70.848778,519s,350s,,54s,10s | 150s,10s | 170s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC1261,NGC 1261,48.067542,-55.216222,859s,413s,,168s,40s | 350s,40s | 360s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC1851,NGC 1851,78.528167,-40.046556,1288s,453s,,140s,20s | 350s,20s | 350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC2298,NGC 2298,102.247542,-36.005306,981s,350s,,136s,20s | 350s,20s | 350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC2808,NGC 2808,138.012917,-64.8635,985s,650s,,97s,23s | 360s,23s | 370s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC3201,NGC 3201,154.403417,-46.412472,754s,310s,,68s,5s | 100s,5s | 100s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC4590,NGC 4590,189.866583,-26.744056,696s,305s,,60s,12s | 130s,12s | 150s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC4833,NGC 4833,194.891333,-70.8765,936s,350s,,136s,10s | 150s,10s | 170s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5024,NGC 5024,198.230208,18.168167,1832s,460s,,180s,45s | 340s,45s | 340s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5053,NGC 5053,199.112875,17.70025,829s,415s,,164s,30s | 340s,30s | 340s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5272,NGC 5272,205.548417,28.377278,415s,350s,,42s,12s | 130s,12s | 150s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5466,NGC 5466,211.363708,28.534444,930s,350s,,135s,30s | 340s,30s | 350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5897,NGC 5897,229.351667,-21.010111,926s,350s,,140s,25s | 340s,350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5904,NGC 5904,229.638417,2.081028,689s,306s,,58s,7s | 140s,7s | 140s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5927,NGC 5927,232.002875,-50.673028,668s,310s,,66s,30s | 350s,25s | 360s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC5986,NGC 5986,236.5125,-37.786417,745s,300s,,64s,20s | 350s,20s | 350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6093,NGC 6093,244.260042,-22.976083,855s,657s,,85s,10s | 340s,10s | 340s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6101,NGC 6101,246.4505,-72.202194,940s,415s,,165s,35s | 370s,35s | 340s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6121,NGC 6121,245.89675,-26.52575,808s,300s,,66s,1s | 25s,1s | 30s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6144,NGC 6144,246.80775,-26.0235,748s,304s,,61s,25s | 340s,25s | 350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6171,NGC 6171,248.13275,-13.053778,926s,350s,,140s,12s | 130s,12s | 150s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6205,NGC 6205,250.421833,36.459861,427s,350s,,46s,7s | 140s,7s | 140s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6218,NGC 6218,251.809083,-1.948528,790s,306s,,66s,4s | 90s,4s | 90s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6254,NGC 6254,254.287708,-4.100306,790s,306s,,66s,4s | 90s,4s | 90s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6304,NGC 6304,258.634375,-29.462028,693s,304s,,61s,20s | 340s,20s | 350s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6341,NGC 6341,259.280792,43.135944,707s,304s,,59s,7s | 340s,7s | 340s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6352,NGC 6352,261.371292,-48.422167,706s,311s,,72s,7s | 140s,7s | 150s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6362,NGC 6362,262.979125,-67.048333,720s,323s,,68s,10s | 130s,10s | 150s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6366,NGC 6366,261.934333,-5.079861,795s,305s,,62s,10s | 140s,10s | 140s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1
+NGC6397,NGC 6397,265.175375,-53.674333,752s,310s,,66s,1s | 15s,1s | 15s,meth01 |  meth02 |  meth03,"CMD: (png)   | RGB: (png, tif)",1

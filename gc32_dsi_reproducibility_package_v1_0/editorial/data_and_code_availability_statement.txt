@@ -1,0 +1,2 @@
+Data and code availability
+The reproducibility package contains the source CSV inputs, machine-readable output tables, MATLAB analysis code, execution logs, manuscript figures, supplementary material, and metadata required to reproduce the numerical results and figures. The package includes SHA-256 checksums and a file inventory. After public deposition, the Zenodo DOI and GitHub release URL should be inserted in this statement.

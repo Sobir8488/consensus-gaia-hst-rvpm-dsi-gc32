@@ -1,0 +1,6 @@
+new_path,source_upload,source_path,note
+manuscript/manuscript.pdf,Advances_SENT_.pdf,/mnt/data/Advances_SENT_.pdf,uploaded manuscript PDF
+data/input/*,GC32_DSI_ASR_Supplementary_Upload_Package.zip,source_data_csv/*,source CSV tables with filename-consistency cleanup
+outputs/tables_csv/*,GC32_DSI_ASR_Supplementary_Upload_Package.zip,supplementary_tables_csv/*,machine-readable output tables
+figures/*,GC32_DSI_ASR_Supplementary_Upload_Package.zip,supplementary_figures/*,archived figures
+code/matlab/*,GC32_DSI_Supplementary_Upload_Package.zip,code_and_logs/*.m,MATLAB code with publication-ready filenames and comments

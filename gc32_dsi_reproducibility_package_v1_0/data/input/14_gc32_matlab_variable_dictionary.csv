@@ -1,0 +1,9 @@
+file,column_or_pattern,description
+01_gc32_sample_list.csv,cluster_id,Strict 32-GC sample: Gaia profile ∩ HST PM profile ∩ combined RV/PM velocity profile.
+03_gc32_hst_pm_dispersion_profiles_masyr,pm_sigma_total/radial/tangential_masyr,Observed HST PM dispersion data filtered to 32 clusters.
+04_gc32_gaia_edr3_rotation_dispersion_profiles_masyr,pm_disp_p50_masyr; pm_rot_p50_masyr,Real Gaia EDR3 profile data filtered to 32 clusters.
+06_gc32_combined_rv_pm_velocity_dispersion_profiles_kms,sigma_kms; data_type,Real combined RV/PM dispersion profile data in km/s.
+07_gc32_hst_hugs_exposure_metadata,F275W_exp_s...F814W_exp_s,Real HST HUGS exposure metadata; auxiliary only.
+08/09/10 APOGEE files,APOGEE parameters/abundances/star-level rows,Real APOGEE VAC data where available: 23 of 32 clusters.
+11_gc32_profile_feature_matrix_derived,gradient/curvature/ratio columns,Derived from observed profile rows; no synthetic observational values inserted.
+12_gc32_main_dsi_input_matrix_matlab,dsi_component_*_raw,Ready for MATLAB robust-z/bootstrap DSI computation; fiducial DSI left blank.

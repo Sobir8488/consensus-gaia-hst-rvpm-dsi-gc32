@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the associated manuscript and Zenodo record."
+title: "GC32 Gaia-HST-RV/PM Dynamical-State Index Reproducibility Package"
+type: software
+authors:
+  - family-names: Turaev
+    given-names: S. J.
+    orcid: "https://orcid.org/0000-0002-4932-241X"
+  - family-names: Nuritdinov
+    given-names: S. N.
+  - family-names: Yuldosheva
+    given-names: Q. X.
+version: "1.0.0"
+date-released: "2026-06-27"
+repository-code: "TO_BE_ADDED_AFTER_GITHUB_RELEASE"
+url: "TO_BE_ADDED_AFTER_ZENODO_DEPOSIT"
+abstract: "Reproducibility package containing source CSV inputs, MATLAB code, machine-readable result tables, figures, logs, and metadata for a 32-cluster Gaia-HST-RV/PM dynamical-state-index analysis."
+keywords:
+  - globular clusters
+  - stellar dynamics
+  - Gaia EDR3
+  - Hubble Space Telescope
+  - radial velocities
+  - dynamical-state index
+license: MIT

@@ -1,0 +1,1 @@
+13_gc32_structural_validation.csv contains Harris/Baumgardt-style structural validation quantities for the same 32 clusters. These columns are used only for external validation and are not used in DSI construction. Key fields: concentration_c, log10_trc_yr, log10_trh_yr, core_collapse_flag.

@@ -1,0 +1,11 @@
+item,value
+strict_main_sample_clusters,32
+hst_pm_rows_32,389
+gaia_profile_rows_32,3232
+gaia_member_summary_rows_32,32
+velocity_profile_rows_32,839
+hst_hugs_metadata_rows_32,32
+apogee_parameter_rows_available,23
+apogee_abundance_summary_rows_available,23
+apogee_star_rows_available,2461
+per_cluster_csv_files,256
